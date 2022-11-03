@@ -116,6 +116,14 @@ _NOTE: The list is not yet complete. To add your institution, edit [this file](h
 
 - [Cassandra Jacobs](https://cljacobs.net) - psycholinguistics, cognitive modeling, interpretability, annotation
 
+**[University of British Columbia](https://linguistics.ubc.ca/), Vancouver, BC [M.A./Ph.D. in Linguistics and M.S. in Data Science]
+
+- [Muhammad Adbul-Mageed](https://mageed.arts.ubc.ca/) - deep learning, natural language processing, deep representation learning and natural language socio-pragmatics
+- [Garrett Nicolai](https://linguistics.ubc.ca/profile/garrett-nicolai/) - computational morphology, NLP for low-resource languages
+- [Jungyeul Park](https://linguistics.ubc.ca/profile/jungyeul-park/) - computational linguistics, parsing, computational morphology 
+- [Miikka Silfverberg](https://linguistics.ubc.ca/profile/miikka-silfverberg/) - computational morphology, NLP for low-resource languages
+- [Jian Zhu](https://lingjzhu.github.io/) - spoken language processing, natural language processing and computational social science
+
 **[University of California, Berkeley](https://lx.berkeley.edu/)**, Berkeley, CA [Ph.D. Linguistics]
 
 - [Gasper Begus](https://gbegus.github.io/) - speech processing, phonology, interpretable deep learning, generative modeling
